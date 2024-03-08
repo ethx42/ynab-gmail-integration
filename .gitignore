@@ -1,0 +1,8 @@
+credentials.json
+token.pickle
+.env
+__pycache__
+venv/
+dump.txt
+app/script2.py
+.DS_Store
